@@ -1,0 +1,16 @@
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.csproj.AssemblyReference.cache
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.AssemblyInfoInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.AssemblyInfo.cs
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.csproj.CoreCompileInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.exe
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.deps.json
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.runtimeconfig.json
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.runtimeconfig.dev.json
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.dll
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\ref\StrategyDeisgnPattern.dll
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\bin\Debug\net5.0\StrategyDeisgnPattern.pdb
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.dll
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\ref\StrategyDeisgnPattern.dll
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.pdb
+C:\Users\SpurSol-Shamail\source\repos\StrategyDeisgnPattern\StrategyDeisgnPattern\obj\Debug\net5.0\StrategyDeisgnPattern.genruntimeconfig.cache
